@@ -22,7 +22,7 @@ It is frontend react-app that allow the user to get quotes online. The app have 
 
 
 ## `Live Demo`
- Click [here](https://mystifying-tereshkova-9e3c32.netlify.app) for Live Demo
+ Click [here](https://kind-curran-01cf22.netlify.app) for Live Demo
 
 
 👤 **Author**
@@ -30,5 +30,4 @@ It is frontend react-app that allow the user to get quotes online. The app have 
 - Github: [@nellencr](https://github.com/nellencr)
 - Twitter: [Nella](https://twitter.com/Nella75794271)
 - Linkedin: [Nela Komane](https://www.linkedin.com/in/nela-komane-8866b9192/)
-- Email: nellencr@gmail.com
-"# FCC-RandomQuoteMachine" 
+- Email: nellencr@gmail.com 
